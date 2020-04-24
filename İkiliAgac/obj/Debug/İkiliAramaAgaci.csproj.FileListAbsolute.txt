@@ -1,0 +1,69 @@
+C:\Users\onur.leblebici\Google Drive\Akademik\Doçentlik\Kaynaklar\Veri Yapıları\CBU Uni\Veri Yapıları\Uygulamalar\8. İkili Arama Ağacı\İkiliAramaAgaci\İkiliAgac\bin\Debug\İkiliAgac.exe.config
+C:\Users\onur.leblebici\Google Drive\Akademik\Doçentlik\Kaynaklar\Veri Yapıları\CBU Uni\Veri Yapıları\Uygulamalar\8. İkili Arama Ağacı\İkiliAramaAgaci\İkiliAgac\bin\Debug\İkiliAgac.exe
+C:\Users\onur.leblebici\Google Drive\Akademik\Doçentlik\Kaynaklar\Veri Yapıları\CBU Uni\Veri Yapıları\Uygulamalar\8. İkili Arama Ağacı\İkiliAramaAgaci\İkiliAgac\bin\Debug\İkiliAgac.pdb
+C:\Users\onur.leblebici\Google Drive\Akademik\Doçentlik\Kaynaklar\Veri Yapıları\CBU Uni\Veri Yapıları\Uygulamalar\8. İkili Arama Ağacı\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.csprojResolveAssemblyReference.cache
+C:\Users\onur.leblebici\Google Drive\Akademik\Doçentlik\Kaynaklar\Veri Yapıları\CBU Uni\Veri Yapıları\Uygulamalar\8. İkili Arama Ağacı\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.Form1.resources
+C:\Users\onur.leblebici\Google Drive\Akademik\Doçentlik\Kaynaklar\Veri Yapıları\CBU Uni\Veri Yapıları\Uygulamalar\8. İkili Arama Ağacı\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.Properties.Resources.resources
+C:\Users\onur.leblebici\Google Drive\Akademik\Doçentlik\Kaynaklar\Veri Yapıları\CBU Uni\Veri Yapıları\Uygulamalar\8. İkili Arama Ağacı\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.csproj.GenerateResource.Cache
+C:\Users\onur.leblebici\Google Drive\Akademik\Doçentlik\Kaynaklar\Veri Yapıları\CBU Uni\Veri Yapıları\Uygulamalar\8. İkili Arama Ağacı\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAgac.exe
+C:\Users\onur.leblebici\Google Drive\Akademik\Doçentlik\Kaynaklar\Veri Yapıları\CBU Uni\Veri Yapıları\Uygulamalar\8. İkili Arama Ağacı\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAgac.pdb
+C:\Users\Usre\Desktop\MCBU Dersler\2018-2019 Bahar\Veri Yapıları\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7\İkiliAramaAgaci\İkiliAgac\bin\Debug\İkiliAgac.exe.config
+C:\Users\Usre\Desktop\MCBU Dersler\2018-2019 Bahar\Veri Yapıları\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7\İkiliAramaAgaci\İkiliAgac\bin\Debug\İkiliAgac.exe
+C:\Users\Usre\Desktop\MCBU Dersler\2018-2019 Bahar\Veri Yapıları\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7\İkiliAramaAgaci\İkiliAgac\bin\Debug\İkiliAgac.pdb
+C:\Users\Usre\Desktop\MCBU Dersler\2018-2019 Bahar\Veri Yapıları\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.csprojAssemblyReference.cache
+C:\Users\Usre\Desktop\MCBU Dersler\2018-2019 Bahar\Veri Yapıları\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.Form1.resources
+C:\Users\Usre\Desktop\MCBU Dersler\2018-2019 Bahar\Veri Yapıları\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.Properties.Resources.resources
+C:\Users\Usre\Desktop\MCBU Dersler\2018-2019 Bahar\Veri Yapıları\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.csproj.GenerateResource.cache
+C:\Users\Usre\Desktop\MCBU Dersler\2018-2019 Bahar\Veri Yapıları\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.csproj.CoreCompileInputs.cache
+C:\Users\Usre\Desktop\MCBU Dersler\2018-2019 Bahar\Veri Yapıları\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAgac.exe
+C:\Users\Usre\Desktop\MCBU Dersler\2018-2019 Bahar\Veri Yapıları\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAgac.pdb
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7\İkiliAramaAgaci\İkiliAgac\bin\Debug\İkiliAgac.exe.config
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7\İkiliAramaAgaci\İkiliAgac\bin\Debug\İkiliAgac.exe
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7\İkiliAramaAgaci\İkiliAgac\bin\Debug\İkiliAgac.pdb
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.csprojAssemblyReference.cache
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.Form1.resources
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.Properties.Resources.resources
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.csproj.GenerateResource.cache
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.csproj.CoreCompileInputs.cache
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAgac.exe
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAgac.pdb
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7 - Deneme\İkiliAramaAgaci\İkiliAgac\bin\Debug\İkiliAgac.exe.config
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7 - Deneme\İkiliAramaAgaci\İkiliAgac\bin\Debug\İkiliAgac.exe
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7 - Deneme\İkiliAramaAgaci\İkiliAgac\bin\Debug\İkiliAgac.pdb
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7 - Deneme\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.csprojAssemblyReference.cache
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7 - Deneme\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.Form1.resources
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7 - Deneme\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.Properties.Resources.resources
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7 - Deneme\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.csproj.GenerateResource.cache
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7 - Deneme\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.csproj.CoreCompileInputs.cache
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7 - Deneme\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAgac.exe
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7 - Deneme\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAgac.pdb
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7 - Ogrenci\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.csprojAssemblyReference.cache
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7 - Ogrenci\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.Form1.resources
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7 - Ogrenci\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.Properties.Resources.resources
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7 - Ogrenci\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.csproj.GenerateResource.cache
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7 - Ogrenci\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.csproj.CoreCompileInputs.cache
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7 - Ogrenci\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAgac.exe
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7 - Ogrenci\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAgac.pdb
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7 - Ogrenci\İkiliAramaAgaci\İkiliAgac\bin\Debug\İkiliAgac.exe.config
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7 - Ogrenci\İkiliAramaAgaci\İkiliAgac\bin\Debug\İkiliAgac.exe
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\7. Hafta - İkili Arama Ağacı\uygulama7\uyg7 - Ogrenci\İkiliAramaAgaci\İkiliAgac\bin\Debug\İkiliAgac.pdb
+C:\Users\Usre\Desktop\İkiliAramaAgaci\İkiliAgac\bin\Debug\İkiliAgac.exe.config
+C:\Users\Usre\Desktop\İkiliAramaAgaci\İkiliAgac\bin\Debug\İkiliAgac.exe
+C:\Users\Usre\Desktop\İkiliAramaAgaci\İkiliAgac\bin\Debug\İkiliAgac.pdb
+C:\Users\Usre\Desktop\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.csprojAssemblyReference.cache
+C:\Users\Usre\Desktop\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.Form1.resources
+C:\Users\Usre\Desktop\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.Properties.Resources.resources
+C:\Users\Usre\Desktop\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.csproj.GenerateResource.cache
+C:\Users\Usre\Desktop\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.csproj.CoreCompileInputs.cache
+C:\Users\Usre\Desktop\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAgac.exe
+C:\Users\Usre\Desktop\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAgac.pdb
+C:\Users\tevfi\Desktop\veri yapıları\hafta 9 ikili arama ağacı\İkiliAramaAgaci\İkiliAgac\bin\Debug\İkiliAgac.exe.config
+C:\Users\tevfi\Desktop\veri yapıları\hafta 9 ikili arama ağacı\İkiliAramaAgaci\İkiliAgac\bin\Debug\İkiliAgac.exe
+C:\Users\tevfi\Desktop\veri yapıları\hafta 9 ikili arama ağacı\İkiliAramaAgaci\İkiliAgac\bin\Debug\İkiliAgac.pdb
+C:\Users\tevfi\Desktop\veri yapıları\hafta 9 ikili arama ağacı\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.csprojAssemblyReference.cache
+C:\Users\tevfi\Desktop\veri yapıları\hafta 9 ikili arama ağacı\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.Form1.resources
+C:\Users\tevfi\Desktop\veri yapıları\hafta 9 ikili arama ağacı\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.Properties.Resources.resources
+C:\Users\tevfi\Desktop\veri yapıları\hafta 9 ikili arama ağacı\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.csproj.GenerateResource.cache
+C:\Users\tevfi\Desktop\veri yapıları\hafta 9 ikili arama ağacı\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.csproj.CoreCompileInputs.cache
+C:\Users\tevfi\Desktop\veri yapıları\hafta 9 ikili arama ağacı\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAgac.exe
+C:\Users\tevfi\Desktop\veri yapıları\hafta 9 ikili arama ağacı\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAgac.pdb
